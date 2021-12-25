@@ -1,0 +1,30 @@
+{
+    "name": "Pandasss #3",
+    "description": "This is unique art from Pandasss collection with random attributes: Fondos: verde, Pandas: panda b, Gorro: gorro a.",
+    "external_url": "",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "Fondos",
+            "value": "verde"
+        },
+        {
+            "trait_type": "Pandas",
+            "value": "panda b"
+        },
+        {
+            "trait_type": "Gorro",
+            "value": "gorro a"
+        }
+    ],
+    "properties": {
+        "category": "image",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/ragdollswap/Pandas/main/2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": []
+    }
+}

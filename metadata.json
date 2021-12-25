@@ -1,0 +1,246 @@
+{
+    "name": "Pandasss",
+    "description": "unos pandas",
+    "collection": [
+        {
+            "name": "Pandasss #1",
+            "description": "This is unique art from Pandasss collection with random attributes: Fondos: verde, Pandas: panda a, Gorro: gorro b.",
+            "external_url": "",
+            "image": "0.png",
+            "attributes": [
+                {
+                    "trait_type": "Fondos",
+                    "value": "verde"
+                },
+                {
+                    "trait_type": "Pandas",
+                    "value": "panda a"
+                },
+                {
+                    "trait_type": "Gorro",
+                    "value": "gorro b"
+                }
+            ],
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "0.png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": []
+            }
+        },
+        {
+            "name": "Pandasss #2",
+            "description": "This is unique art from Pandasss collection with random attributes: Fondos: verde, Pandas: panda b, Gorro: gorro b.",
+            "external_url": "",
+            "image": "1.png",
+            "attributes": [
+                {
+                    "trait_type": "Fondos",
+                    "value": "verde"
+                },
+                {
+                    "trait_type": "Pandas",
+                    "value": "panda b"
+                },
+                {
+                    "trait_type": "Gorro",
+                    "value": "gorro b"
+                }
+            ],
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "1.png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": []
+            }
+        },
+        {
+            "name": "Pandasss #3",
+            "description": "This is unique art from Pandasss collection with random attributes: Fondos: verde, Pandas: panda b, Gorro: gorro a.",
+            "external_url": "",
+            "image": "2.png",
+            "attributes": [
+                {
+                    "trait_type": "Fondos",
+                    "value": "verde"
+                },
+                {
+                    "trait_type": "Pandas",
+                    "value": "panda b"
+                },
+                {
+                    "trait_type": "Gorro",
+                    "value": "gorro a"
+                }
+            ],
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "2.png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": []
+            }
+        },
+        {
+            "name": "Pandasss #4",
+            "description": "This is unique art from Pandasss collection with random attributes: Fondos: celeste, Pandas: panda b, Gorro: gorro a.",
+            "external_url": "",
+            "image": "3.png",
+            "attributes": [
+                {
+                    "trait_type": "Fondos",
+                    "value": "celeste"
+                },
+                {
+                    "trait_type": "Pandas",
+                    "value": "panda b"
+                },
+                {
+                    "trait_type": "Gorro",
+                    "value": "gorro a"
+                }
+            ],
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "3.png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": []
+            }
+        },
+        {
+            "name": "Pandasss #5",
+            "description": "This is unique art from Pandasss collection with random attributes: Fondos: celeste, Pandas: panda a, Gorro: gorro a.",
+            "external_url": "",
+            "image": "4.png",
+            "attributes": [
+                {
+                    "trait_type": "Fondos",
+                    "value": "celeste"
+                },
+                {
+                    "trait_type": "Pandas",
+                    "value": "panda a"
+                },
+                {
+                    "trait_type": "Gorro",
+                    "value": "gorro a"
+                }
+            ],
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "4.png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": []
+            }
+        },
+        {
+            "name": "Pandasss #6",
+            "description": "This is unique art from Pandasss collection with random attributes: Fondos: celeste, Pandas: panda b, Gorro: gorro b.",
+            "external_url": "",
+            "image": "5.png",
+            "attributes": [
+                {
+                    "trait_type": "Fondos",
+                    "value": "celeste"
+                },
+                {
+                    "trait_type": "Pandas",
+                    "value": "panda b"
+                },
+                {
+                    "trait_type": "Gorro",
+                    "value": "gorro b"
+                }
+            ],
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "5.png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": []
+            }
+        },
+        {
+            "name": "Pandasss #7",
+            "description": "This is unique art from Pandasss collection with random attributes: Fondos: celeste, Pandas: panda a, Gorro: gorro b.",
+            "external_url": "",
+            "image": "6.png",
+            "attributes": [
+                {
+                    "trait_type": "Fondos",
+                    "value": "celeste"
+                },
+                {
+                    "trait_type": "Pandas",
+                    "value": "panda a"
+                },
+                {
+                    "trait_type": "Gorro",
+                    "value": "gorro b"
+                }
+            ],
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "6.png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": []
+            }
+        },
+        {
+            "name": "Pandasss #8",
+            "description": "This is unique art from Pandasss collection with random attributes: Fondos: verde, Pandas: panda a, Gorro: gorro a.",
+            "external_url": "",
+            "image": "7.png",
+            "attributes": [
+                {
+                    "trait_type": "Fondos",
+                    "value": "verde"
+                },
+                {
+                    "trait_type": "Pandas",
+                    "value": "panda a"
+                },
+                {
+                    "trait_type": "Gorro",
+                    "value": "gorro a"
+                }
+            ],
+            "properties": {
+                "category": "image",
+                "files": [
+                    {
+                        "uri": "7.png",
+                        "type": "image/png"
+                    }
+                ],
+                "creators": []
+            }
+        }
+    ]
+}
